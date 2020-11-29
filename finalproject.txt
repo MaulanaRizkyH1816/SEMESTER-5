@@ -1,0 +1,4 @@
+Membuat website dinamis
+- Menggunakan bahasa php dan framework codeignater
+- Logo
+- database
